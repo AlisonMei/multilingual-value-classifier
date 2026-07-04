@@ -1,0 +1,301 @@
+id,language,distance_level,text,gold_label,pred_label
+resp_0000,nl,1,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0001,de,1,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0002,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0003,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0004,de,2,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0005,de,4,"Dieser Wald ist wichtig, weil er CO2 fuer unser Klima speichert.",instrumental,instrumental
+resp_0006,de,3,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0007,nl,1,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0008,nl,3,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0009,nl,3,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0010,nl,1,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0011,en,4,"The mudflats supply fish, which is good for the local economy.",instrumental,instrumental
+resp_0012,de,1,"Dieser Wald ist wichtig, weil er CO2 fuer unser Klima speichert.",instrumental,instrumental
+resp_0013,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0014,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0015,nl,3,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0016,en,2,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0017,de,2,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0018,nl,2,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0019,en,2,This forest matters because it stores carbon for our climate.,instrumental,instrumental
+resp_0020,en,3,"The landscape is worth protecting for its own sake, not for our benefit.",intrinsic,intrinsic
+resp_0021,nl,3,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0022,de,4,"Die Landschaft ist an sich wertvoll, nicht wegen ihres Nutzens.",intrinsic,intrinsic
+resp_0023,nl,3,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0024,de,1,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0025,en,4,This area should be protected even if no one ever visits it.,intrinsic,relational
+resp_0026,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0027,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0028,nl,3,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0029,en,2,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0030,de,3,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0031,nl,2,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0032,nl,4,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0033,de,3,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0034,de,1,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0035,de,1,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0036,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0037,en,2,The dunes protect our village from flooding.,instrumental,instrumental
+resp_0038,en,1,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0039,nl,4,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0040,de,2,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0041,nl,3,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0042,en,4,"The mudflats supply fish, which is good for the local economy.",instrumental,instrumental
+resp_0043,nl,1,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0044,de,3,Dieser Ort traegt die Erinnerungen unseres Dorfes in sich.,relational,relational
+resp_0045,nl,1,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0046,de,2,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0047,nl,2,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0048,en,1,The seals and birds have their own right to exist here.,intrinsic,intrinsic
+resp_0049,nl,1,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0050,de,4,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0051,de,2,"Die Landschaft ist an sich wertvoll, nicht wegen ihres Nutzens.",intrinsic,intrinsic
+resp_0052,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0053,nl,4,Dit bos is belangrijk omdat het CO2 opslaat voor ons klimaat.,instrumental,instrumental
+resp_0054,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0055,nl,4,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0056,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0057,en,4,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0058,nl,3,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0059,en,2,This area should be protected even if no one ever visits it.,intrinsic,relational
+resp_0060,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0061,nl,4,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0062,en,2,This place is useful for recreation and brings in tourists.,instrumental,instrumental
+resp_0063,en,2,For me it is about the bond I have with this landscape.,relational,relational
+resp_0064,nl,2,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0065,de,1,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0066,nl,2,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0067,en,1,For me it is about the bond I have with this landscape.,relational,relational
+resp_0068,nl,1,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0069,de,4,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0070,en,2,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0071,de,1,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0072,de,1,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0073,nl,2,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0074,nl,3,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0075,nl,1,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0076,de,3,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0077,en,2,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0078,nl,4,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0079,nl,1,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0080,nl,4,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0081,nl,2,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0082,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0083,de,4,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0084,en,1,This forest matters because it stores carbon for our climate.,instrumental,instrumental
+resp_0085,en,1,This forest matters because it stores carbon for our climate.,instrumental,instrumental
+resp_0086,de,2,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0087,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0088,nl,1,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0089,de,3,"Ich schaetze dieses Gebiet, weil es sauberes Trinkwasser liefert.",instrumental,instrumental
+resp_0090,nl,3,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0091,de,3,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0092,en,4,This place carries the memories of our whole village.,relational,relational
+resp_0093,nl,3,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0094,en,2,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0095,en,3,This place carries the memories of our whole village.,relational,relational
+resp_0096,en,1,"I feel responsible for this area, as if it belongs to us.",relational,relational
+resp_0097,nl,3,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0098,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0099,en,2,I value this area because it provides clean drinking water.,instrumental,instrumental
+resp_0100,nl,1,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0101,en,3,The seals and birds have their own right to exist here.,intrinsic,intrinsic
+resp_0102,de,1,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0103,nl,2,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0104,en,1,"I feel responsible for this area, as if it belongs to us.",relational,relational
+resp_0105,nl,2,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0106,nl,1,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0107,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0108,nl,4,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0109,en,2,"I feel responsible for this area, as if it belongs to us.",relational,relational
+resp_0110,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0111,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0112,de,4,"Ich schaetze dieses Gebiet, weil es sauberes Trinkwasser liefert.",instrumental,instrumental
+resp_0113,nl,3,Dit bos is belangrijk omdat het CO2 opslaat voor ons klimaat.,instrumental,instrumental
+resp_0114,nl,3,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0115,nl,3,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0116,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0117,de,1,"Ich fuehle mich fuer dieses Gebiet verantwortlich, als waere es unseres.",relational,relational
+resp_0118,de,2,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0119,nl,4,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0120,en,2,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0121,de,2,Dieser Ort traegt die Erinnerungen unseres Dorfes in sich.,relational,relational
+resp_0122,nl,1,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0123,nl,3,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0124,nl,2,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0125,de,3,"Das Watt liefert Fisch, das ist gut fuer die lokale Wirtschaft.",instrumental,instrumental
+resp_0126,de,3,"Das Watt liefert Fisch, das ist gut fuer die lokale Wirtschaft.",instrumental,instrumental
+resp_0127,nl,3,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0128,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0129,de,3,"Das Watt liefert Fisch, das ist gut fuer die lokale Wirtschaft.",instrumental,instrumental
+resp_0130,nl,3,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0131,nl,1,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0132,nl,2,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0133,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0134,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0135,nl,4,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0136,en,4,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0137,nl,2,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0138,en,3,This place is useful for recreation and brings in tourists.,instrumental,instrumental
+resp_0139,de,3,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0140,nl,3,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0141,nl,4,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0142,en,3,"The mudflats supply fish, which is good for the local economy.",instrumental,instrumental
+resp_0143,de,1,"Dieser Wald ist wichtig, weil er CO2 fuer unser Klima speichert.",instrumental,instrumental
+resp_0144,nl,2,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0145,nl,3,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0146,de,2,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0147,nl,3,Dit bos is belangrijk omdat het CO2 opslaat voor ons klimaat.,instrumental,instrumental
+resp_0148,de,1,"Ich fuehle mich fuer dieses Gebiet verantwortlich, als waere es unseres.",relational,relational
+resp_0149,de,1,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0150,nl,2,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0151,nl,2,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0152,de,2,Die Duenen schuetzen unser Dorf vor Ueberschwemmungen.,instrumental,instrumental
+resp_0153,en,3,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0154,en,1,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0155,de,3,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0156,nl,2,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0157,nl,3,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0158,en,3,For me it is about the bond I have with this landscape.,relational,relational
+resp_0159,de,1,Die Duenen schuetzen unser Dorf vor Ueberschwemmungen.,instrumental,instrumental
+resp_0160,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0161,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0162,nl,3,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0163,nl,3,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0164,nl,2,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0165,en,3,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0166,nl,3,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0167,nl,2,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0168,nl,3,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0169,nl,4,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0170,de,4,"Das Watt liefert Fisch, das ist gut fuer die lokale Wirtschaft.",instrumental,instrumental
+resp_0171,nl,4,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0172,de,2,Dieser Ort traegt die Erinnerungen unseres Dorfes in sich.,relational,relational
+resp_0173,nl,1,Dit bos is belangrijk omdat het CO2 opslaat voor ons klimaat.,instrumental,instrumental
+resp_0174,nl,3,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0175,de,2,Dieser Ort traegt die Erinnerungen unseres Dorfes in sich.,relational,relational
+resp_0176,nl,3,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0177,nl,1,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0178,de,1,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0179,de,1,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0180,nl,4,Voor mij gaat het om de band die ik met dit landschap heb.,relational,relational
+resp_0181,de,3,"Hier bin ich als Kind mit meinem Opa gewandert, dieser Ort gehoert zu mir.",relational,relational
+resp_0182,nl,3,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0183,de,1,"Ich fuehle mich fuer dieses Gebiet verantwortlich, als waere es unseres.",relational,relational
+resp_0184,de,4,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0185,en,3,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0186,nl,2,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0187,nl,1,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0188,nl,1,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0189,nl,3,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0190,en,4,"Nature here has value in itself, regardless of what we get from it.",intrinsic,intrinsic
+resp_0191,de,1,"Fuer mich geht es um die Verbindung, die ich zu dieser Landschaft habe.",relational,relational
+resp_0192,nl,1,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0193,en,2,"I feel responsible for this area, as if it belongs to us.",relational,relational
+resp_0194,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0195,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0196,de,1,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0197,nl,3,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0198,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0199,de,2,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0200,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0201,en,1,This forest matters because it stores carbon for our climate.,instrumental,instrumental
+resp_0202,de,4,"Das Watt liefert Fisch, das ist gut fuer die lokale Wirtschaft.",instrumental,instrumental
+resp_0203,nl,4,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0204,de,3,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0205,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0206,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0207,en,2,For me it is about the bond I have with this landscape.,relational,relational
+resp_0208,en,1,The seals and birds have their own right to exist here.,intrinsic,intrinsic
+resp_0209,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0210,en,4,"The landscape is worth protecting for its own sake, not for our benefit.",intrinsic,intrinsic
+resp_0211,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0212,de,3,"Ich schaetze dieses Gebiet, weil es sauberes Trinkwasser liefert.",instrumental,instrumental
+resp_0213,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0214,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0215,nl,4,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0216,de,4,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0217,nl,3,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0218,de,2,"Dieser Wald ist wichtig, weil er CO2 fuer unser Klima speichert.",instrumental,instrumental
+resp_0219,nl,2,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0220,nl,4,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0221,de,1,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0222,de,2,"Die Natur hier hat einen Wert an sich, unabhaengig vom Menschen.",intrinsic,intrinsic
+resp_0223,nl,2,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0224,en,3,The dunes protect our village from flooding.,instrumental,instrumental
+resp_0225,nl,4,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0226,nl,4,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0227,en,2,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0228,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0229,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0230,en,4,"The mudflats supply fish, which is good for the local economy.",instrumental,instrumental
+resp_0231,en,3,This place is useful for recreation and brings in tourists.,instrumental,instrumental
+resp_0232,nl,3,Het wad levert vis en dat is goed voor de lokale economie.,instrumental,instrumental
+resp_0233,en,3,I value this area because it provides clean drinking water.,instrumental,instrumental
+resp_0234,en,1,"The landscape is worth protecting for its own sake, not for our benefit.",intrinsic,intrinsic
+resp_0235,de,3,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0236,de,2,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0237,nl,3,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0238,en,1,"The landscape is worth protecting for its own sake, not for our benefit.",intrinsic,intrinsic
+resp_0239,en,3,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0240,en,1,I value this area because it provides clean drinking water.,instrumental,instrumental
+resp_0241,nl,4,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0242,en,3,"The mudflats supply fish, which is good for the local economy.",instrumental,instrumental
+resp_0243,de,4,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0244,de,3,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0245,de,1,"Die Landschaft ist an sich wertvoll, nicht wegen ihres Nutzens.",intrinsic,intrinsic
+resp_0246,de,2,"Hier bin ich als Kind mit meinem Opa gewandert, dieser Ort gehoert zu mir.",relational,relational
+resp_0247,nl,1,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0248,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0249,nl,2,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0250,nl,4,Deze soorten verdienen bescherming ongeacht hun nut voor mensen.,intrinsic,intrinsic
+resp_0251,de,4,Dieser Ort traegt die Erinnerungen unseres Dorfes in sich.,relational,relational
+resp_0252,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0253,de,4,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0254,de,2,"Hier bin ich als Kind mit meinem Opa gewandert, dieser Ort gehoert zu mir.",relational,relational
+resp_0255,en,4,The dunes protect our village from flooding.,instrumental,instrumental
+resp_0256,de,4,Dieser Ort ist nuetzlich fuer Erholung und zieht Touristen an.,instrumental,instrumental
+resp_0257,en,1,"The landscape is worth protecting for its own sake, not for our benefit.",intrinsic,intrinsic
+resp_0258,nl,3,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0259,nl,1,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0260,en,4,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0261,nl,3,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0262,de,2,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0263,nl,2,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0264,de,2,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0265,de,3,"Ich fuehle mich fuer dieses Gebiet verantwortlich, als waere es unseres.",relational,relational
+resp_0266,de,1,"Dieses Gebiet sollte geschuetzt werden, auch wenn niemand hierher kommt.",intrinsic,relational
+resp_0267,nl,2,Deze plek is handig voor recreatie en trekt toeristen aan.,instrumental,instrumental
+resp_0268,de,3,"Die Tiere haben ein eigenes Recht, hier zu leben.",intrinsic,intrinsic
+resp_0269,nl,3,"Het landschap is waardevol in zichzelf, niet omdat het ons iets oplevert.",intrinsic,intrinsic
+resp_0270,en,2,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0271,nl,4,"Dit gebied zou beschermd moeten worden, ook als niemand er ooit komt.",intrinsic,relational
+resp_0272,nl,1,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0273,nl,2,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0274,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0275,nl,3,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0276,en,1,For me it is about the bond I have with this landscape.,relational,relational
+resp_0277,nl,2,"Hier wandelde ik als kind met mijn opa, deze plek is deel van wie ik ben.",relational,relational
+resp_0278,en,4,The dunes protect our village from flooding.,instrumental,instrumental
+resp_0279,nl,3,"De natuur hier heeft waarde op zichzelf, los van wat wij eraan hebben.",intrinsic,intrinsic
+resp_0280,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0281,nl,4,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0282,de,3,"Jedes Jahr kommen wir hierher, es haelt unsere Familie zusammen.",relational,relational
+resp_0283,nl,2,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
+resp_0284,nl,2,De duinen beschermen ons dorp tegen overstromingen.,instrumental,instrumental
+resp_0285,en,1,The dunes protect our village from flooding.,instrumental,instrumental
+resp_0286,nl,1,"Ik voel me verantwoordelijk voor dit gebied, alsof het van ons is.",relational,relational
+resp_0287,nl,4,Dit bos is belangrijk omdat het CO2 opslaat voor ons klimaat.,instrumental,instrumental
+resp_0288,nl,4,Ik waardeer dit gebied omdat het schoon drinkwater levert.,instrumental,instrumental
+resp_0289,en,3,I walked here with my grandfather as a child; this place is part of who I am.,relational,relational
+resp_0290,en,2,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0291,en,2,These species deserve protection whatever their use to people.,intrinsic,relational
+resp_0292,nl,1,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0293,de,1,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0294,en,4,I value this area because it provides clean drinking water.,instrumental,instrumental
+resp_0295,nl,1,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0296,nl,2,De zeehonden en vogels hebben hun eigen recht om hier te bestaan.,intrinsic,relational
+resp_0297,nl,1,"Elk jaar komen we hier samen, het houdt onze familie verbonden.",relational,relational
+resp_0298,de,1,"Diese Arten verdienen Schutz, unabhaengig von ihrem Nutzen fuer uns.",intrinsic,intrinsic
+resp_0299,nl,3,Deze plek draagt de herinneringen van ons dorp met zich mee.,relational,relational
